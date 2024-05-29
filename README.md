@@ -87,12 +87,28 @@ clash verge rev replacement tray icon collection
 </tr>
 </table>
 
+## MiHoYo
+
+<table>
+<tr>
+ <td>png</td>
+ <td align="center"><img src="mihoyo/ys.png?raw=true" width="50px"></td>
+ <td align="center"><img src="mihoyo/sr.png?raw=true" width="50px"></td>
+ <td align="center"><img src="mihoyo/zzz.png?raw=true" width="50px"></td>
+</tr>
+<tr>
+ <td>ico</td>
+ <td align="center"><img src="mihoyo/ys.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="mihoyo/sr.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="mihoyo/zzz.ico?raw=true" width="50px"></td>
+</tr>
+</table>
+
 ## Genshin Impact
 
 <table>
 <tr>
  <td>png</td>
- <td align="center"><img src="genshin-impact/icon.png?raw=true" width="50px"></td>
  <td align="center"><img src="genshin-impact/1.png?raw=true" width="50px"></td>
  <td align="center"><img src="genshin-impact/2.png?raw=true" width="50px"></td>
  <td align="center"><img src="genshin-impact/3.png?raw=true" width="50px"></td>
@@ -103,7 +119,6 @@ clash verge rev replacement tray icon collection
 </tr>
 <tr>
  <td>ico</td>
- <td align="center"><img src="genshin-impact/icon.ico?raw=true" width="50px"></td>
  <td align="center"><img src="genshin-impact/1.ico?raw=true" width="50px"></td>
  <td align="center"><img src="genshin-impact/2.ico?raw=true" width="50px"></td>
  <td align="center"><img src="genshin-impact/3.ico?raw=true" width="50px"></td>
