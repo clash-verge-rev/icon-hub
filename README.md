@@ -70,6 +70,23 @@ clash verge rev replacement tray icon collection
 </tr>
 </table>
 
+## Huorong
+
+<table>
+<tr>
+ <td>png</td>
+ <td align="center"><img src="huorong/common.png?raw=true" width="50px"></td>
+ <td align="center"><img src="huorong/sysproxy.png?raw=true" width="50px"></td>
+ <td align="center"><img src="huorong/tun.png?raw=true" width="50px"></td>
+</tr>
+<tr>
+ <td>ico</td>
+ <td align="center"><img src="huorong/common.png?raw=true" width="50px"></td>
+ <td align="center"><img src="huorong/sysproxy.png?raw=true" width="50px"></td>
+ <td align="center"><img src="huorong/tun.png?raw=true" width="50px"></td>
+</tr>
+</table>
+
 ## Hello Kitty
 
 <table>
