@@ -146,6 +146,29 @@ clash verge rev replacement tray icon collection
 </tr>
 </table>
 
+<table>
+<tr>
+ <td>png</td>
+ <td align="center"><img src="genshin-impact1/1.png?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/2.png?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/3.png?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/4.png?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/5.png?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/6.png?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/7.png?raw=true" width="50px"></td>
+</tr>
+<tr>
+ <td>ico</td>
+ <td align="center"><img src="genshin-impact1/1.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/2.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/3.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/4.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/5.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/6.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="genshin-impact1/7.ico?raw=true" width="50px"></td>
+</tr>
+</table>
+
 ## Hello Kitty
 
 <table>
