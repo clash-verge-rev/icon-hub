@@ -87,6 +87,23 @@ clash verge rev replacement tray icon collection
 </tr>
 </table>
 
+## McAfee
+
+<table>
+<tr>
+ <td>png</td>
+ <td align="center"><img src="mcafee/common.png?raw=true" width="50px"></td>
+ <td align="center"><img src="mcafee/sysproxy.png?raw=true" width="50px"></td>
+ <td align="center"><img src="mcafee/tun.png?raw=true" width="50px"></td>
+</tr>
+<tr>
+ <td>ico</td>
+ <td align="center"><img src="mcafee/common.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="mcafee/sysproxy.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="mcafee/tun.ico?raw=true" width="50px"></td>
+</tr>
+</table>
+
 ## MiHoYo
 
 <table>
