@@ -109,12 +109,14 @@ clash verge rev replacement tray icon collection
 <table>
 <tr>
  <td>png</td>
+ <td align="center"><img src="mihoyo/bh3.png?raw=true" width="50px"></td>
  <td align="center"><img src="mihoyo/ys.png?raw=true" width="50px"></td>
  <td align="center"><img src="mihoyo/sr.png?raw=true" width="50px"></td>
  <td align="center"><img src="mihoyo/zzz.png?raw=true" width="50px"></td>
 </tr>
 <tr>
  <td>ico</td>
+ <td align="center"><img src="mihoyo/bh3.ico?raw=true" width="50px"></td>
  <td align="center"><img src="mihoyo/ys.ico?raw=true" width="50px"></td>
  <td align="center"><img src="mihoyo/sr.ico?raw=true" width="50px"></td>
  <td align="center"><img src="mihoyo/zzz.ico?raw=true" width="50px"></td>
