@@ -87,6 +87,23 @@ clash verge rev replacement tray icon collection
 </tr>
 </table>
 
+## Kaspersky
+
+<table>
+<tr>
+ <td>png</td>
+ <td align="center"><img src="kaspersky/common.png?raw=true" width="50px"></td>
+ <td align="center"><img src="kaspersky/sysproxy.png?raw=true" width="50px"></td>
+ <td align="center"><img src="kaspersky/tun.png?raw=true" width="50px"></td>
+</tr>
+<tr>
+ <td>ico</td>
+ <td align="center"><img src="kaspersky/common.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="kaspersky/sysproxy.ico?raw=true" width="50px"></td>
+ <td align="center"><img src="kaspersky/tun.ico?raw=true" width="50px"></td>
+</tr>
+</table>
+
 ## McAfee
 
 <table>
